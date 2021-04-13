@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Quick note to anyone who manage to wander into my profile. Whatever you see me posting to my public GitHub, it’s almost certain something I'm toying with. And maybe it works, and maybe it doesn’t work. If I'm tasked with doing something production ready, that’s rock solid and thorougly tested, it's not going to any public repo.
+
+I guess thats a lot of words trying to say that you shouldn't really use any code you find here, in your production envioronment 😄
+
 <!--
 **jbmadsen/jbmadsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
